@@ -1,4 +1,10 @@
 eRegister
 =========
 
-An electronic register system used as a case study in Web Achitectures
+This project is a case study in the 12/13 web architectures module at Sheffield Hallam uni.
+
+Its used to explore various aspects of web applications including
+
+*Configuation Management 
+*Domain Modelling 
+*Controller Development
