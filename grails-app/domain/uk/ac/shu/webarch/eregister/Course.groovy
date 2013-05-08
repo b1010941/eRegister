@@ -7,7 +7,7 @@ String courseCode
 String description
 int myIntProp=1
 
-Set Classes
+Set classes
 
 
     static constraints = {

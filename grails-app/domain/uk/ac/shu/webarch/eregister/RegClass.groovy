@@ -11,9 +11,7 @@ String name
 
         Set enrolledStudents
 
-    static hasMany = [classes: student]
-
-    static mappedBy = [classes: 'Enrollment']
+    
 
     static constraints = {
     }

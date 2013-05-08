@@ -16,6 +16,6 @@ Set classes
 
     static constraints = {
     name(nullable:false, blank:false,maxSize:256);
-    staffId(nullable:false, blank:false,maxSize20);
+    staffId(nullable:false, blank:false,maxSize:20);
     }
 }

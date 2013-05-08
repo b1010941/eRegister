@@ -4,7 +4,7 @@ class Registerentry {
 
 Student student
 
-RegistrationSheet regSheet
+Registrationsheet regSheet
 
 Long timestamp
 

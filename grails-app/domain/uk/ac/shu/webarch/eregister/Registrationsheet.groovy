@@ -10,9 +10,9 @@ Set signatories
 
 String notes
 
-  static hasMany = [classes: Registerentry]
+  static hasMany = [signatories: Registerentry]
 
-    static mappedBy = [classes: 'regSheet']
+    static mappedBy = [signatories: 'regSheet']
 
 
 
